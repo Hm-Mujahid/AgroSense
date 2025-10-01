@@ -1,0 +1,8 @@
+Leaf_Color,Spots,Wilting,Disease
+Yellow,Yes,No,Leaf_Spot
+Green,No,Yes,Wilt
+Brown,Yes,Yes,Blight
+Green,No,No,Healthy
+Yellow,No,Yes,Wilt
+Brown,Yes,No,Leaf_Spot
+Green,Yes,Yes,Blight
