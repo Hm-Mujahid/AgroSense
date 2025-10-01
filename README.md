@@ -49,13 +49,13 @@ python main.py
 ```
 
 ## ✅ Example Output
-   ```bash
+```bash
     Generated Decision Tree:
     {'Spots': {'Yes': 'Leaf_Spot', 'No': 'Wilt'}}
     
     Sample Input: {'Leaf_Color': 'Yellow', 'Spots': 'Yes', 'Wilting': 'No'}
     Predicted Disease: Leaf_Spot
-    ```
+```
 ---
 
 ## 🌍Future Goals
