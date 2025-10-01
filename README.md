@@ -41,14 +41,14 @@ cd CropDoc
 pip install pandas numpy scikit-learn
 ```
 
-##▶️ Usage :
+## ▶️ Usage :
 
 Run with the sample dataset:
 ```bash
 python main.py
 ```
 
-##✅ Example Output
+## ✅ Example Output
    ```bash
     Generated Decision Tree:
     {'Spots': {'Yes': 'Leaf_Spot', 'No': 'Wilt'}}
@@ -58,7 +58,7 @@ python main.py
     ```
 ---
 
-##🌍Future Goals
+## 🌍Future Goals
 
 Replace the small dataset with a larger one (e.g., PlantVillage dataset)
 and use scikit-learn for efficient training:
@@ -69,7 +69,7 @@ and use scikit-learn for efficient training:
 
 ---
 
-##📖 Learning Outcomes
+## 📖 Learning Outcomes
 🌟 Understand Entropy & Information Gain
 🌟 Implement ID3 algorithm from scratch
 🌟 Learn how to handle unseen data with defaults
@@ -77,7 +77,7 @@ and use scikit-learn for efficient training:
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License © 2025.
 You are free to use, modify, and distribute with attribution.
