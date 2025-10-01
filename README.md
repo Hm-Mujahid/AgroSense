@@ -60,20 +60,20 @@ python main.py
 
 ## 🌍Future Goals
 
-Replace the small dataset with a larger one (e.g., PlantVillage dataset)
+Replace the small dataset with a larger one (e.g., PlantVillage dataset).
 and use scikit-learn for efficient training:
-        from sklearn.tree import DecisionTreeClassifier        
-        clf = DecisionTreeClassifier(criterion="entropy", max_depth=10)
-        clf.fit(X_train, y_train)
-        print("Accuracy:", clf.score(X_test, y_test))
+        from sklearn.tree import DecisionTreeClassifier.        
+        clf = DecisionTreeClassifier(criterion="entropy", max_depth=10).
+        clf.fit(X_train, y_train).
+        print("Accuracy:", clf.score(X_test, y_test)).
 
 ---
 
 ## 📖 Learning Outcomes
-🌟 Understand Entropy & Information Gain
-🌟 Implement ID3 algorithm from scratch
-🌟 Learn how to handle unseen data with defaults
-🌟 Scale to real agricultural datasets
+ 🌟 Understand Entropy & Information Gain.
+ 🌟 Implement ID3 algorithm from scratch.
+ 🌟 Learn how to handle unseen data with defaults.
+ 🌟 Scale to real agricultural datasets.
 
 ---
 
