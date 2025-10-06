@@ -77,7 +77,7 @@ and use scikit-learn for efficient training:
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License © 2025.
 You are free to use, modify, and distribute with attribution.
