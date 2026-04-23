@@ -2,7 +2,7 @@
 
 **CropDoc** is a lightweight plant disease detection system powered by the **ID3 decision tree algorithm**.  
 It helps in identifying common plant diseases based on leaf symptoms like color, spots, and wilting.  
-Designed for learning, scalable to real-world agricultural datasets.
+Designed for learning and scalable to real-world agricultural datasets.
 
 ---
 
